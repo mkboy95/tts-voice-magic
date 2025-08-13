@@ -639,14 +639,14 @@ const HTML_PAGE = `
         <div class="qr-codes-container">
             <div class="qr-code-item">
                 <div class="qr-code">
-                    <img src="https://img.996007.icu/file/img1/a48c4eac2f2a99909da5611c3885726.jpg" alt="小程序二维码" />
+                    <img src="https://tp.pj365.top/file/hexo/1755057202616_gh_d5a2dc96b64a_258.jpg" alt="小程序二维码" />
                 </div>
-                <h3>关注「超赞应用库」小程序</h3>
+                <h3>「超赞应用库」小程序</h3>
             </div>
             
             <div class="qr-code-item">
                 <div class="qr-code">
-                    <img src="https://img.996007.icu/file/img1/a48c4eac2f2a99909da5611c3885726.jpg" alt="公众号二维码" />
+                    <img src="https://tp.pj365.top/file/hexo/1755057243651_qrcode_for_gh_3be7947b26cb_258__1_.jpg" alt="公众号二维码" />
                 </div>
                 <h3>关注「超赞应用」公众号</h3>
             </div>
@@ -1044,3 +1044,4 @@ function dateFormat() {
     const formattedDate = (new Date()).toUTCString().replace(/GMT/, "").trim() + " GMT";
     return formattedDate.toLowerCase();
 }
+
